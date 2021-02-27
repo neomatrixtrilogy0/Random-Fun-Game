@@ -1,0 +1,1 @@
+This is a simple game where a player has to click on the object that randomly appears on the screen in less than 1 second. If not, then they lose the game. This game doesn't have any styling on it, might return and add those styling later. 
